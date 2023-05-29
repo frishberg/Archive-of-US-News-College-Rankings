@@ -1,4 +1,4 @@
-# Archive-of-US-News-College-Rankings-1984-2023
+# Archive of US News College Rankings 1984-2023
 This repo contains an archive of all US News national college rankings from 1984 to 2023.
 
 The data was collected from https://publicuniversityhonors.com and verified using a public dataset provided by Andrew Reiter (cited below).
