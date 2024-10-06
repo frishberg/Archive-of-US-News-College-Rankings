@@ -4,7 +4,7 @@ This repo contains an archive of all US News national college rankings from 1984
 
 The ranking data was collected from https://publicuniversityhonors.com as well as a public dataset provided by Andrew Reiter (cited below).  I then went through manually to make sure each one was correct.
 
-I have also created an online representation of the data which can be viewed here: https://www.aronfrishberg.com/resources/us%20news%20chart/index.html
+I have also created an online representation of the data which can be viewed here: https://www.aronfrishberg.com/projects/usnews
 
 **This data is entirely for free, public use.**
 
